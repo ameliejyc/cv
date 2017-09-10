@@ -4,12 +4,12 @@ I am a full-stack JavaScript developer at the Founders & Coders peer-led web dev
 
 I care about accessible web design and writing clean, robust code.
 
-## Technology
+## TECHNOLOGIES
 
 I have worked on a variety of projects using the following technologies:
 
 | Languages | Frameworks/Libraries | Databases | Tools/Others |
-| -------- | -------- | -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- |
 | JavaScript     | Express.js     | PostgreSQL     | Git, GitHub     |
 | Node.js | jQuery     |       | Heroku     |
 | CSS3, SCSS |      |      |  TDD    |
@@ -24,7 +24,7 @@ Coming soon...
 
 ### Founders & Coders
 
-<img src="https://github.com/ameliejyc/cv/blob/master/fac-logo.png" width="240">
+![](/images/fac-logo.png?raw=true "F&C Logo")
 
 #### Full-Stack JavaScript Development Course (June - October 2017)
 
@@ -34,7 +34,7 @@ Once the course is over, I will help to mentor the next students at F&C as well 
 
 ### Warp Music Publishing
 
-<img src="https://github.com/ameliejyc/cv/blob/master/warp-logo.png" width="240">
+![](/images/warp-logo.png?raw=true "Warp Logo")
 
 #### Copyright Manager (February 2015 - June 2017)
 

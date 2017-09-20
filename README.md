@@ -2,22 +2,21 @@
 
 Full-stack JavaScript developer at Founders & Coders, a brilliant peer-led web development bootcamp in East London.
 
-I care about accessible web design, writing clean, robust code, and using tech for good. I am happiest in environments which offer plentiful opportunities for learning. 
+I care about accessible web design, writing clean, robust code, and using tech for good. Happiest in environments which offer plentiful opportunities for learning.
 
 ## TECHNOLOGIES
 
 I have worked on a variety of projects using the following technologies:
 
-| Languages | Frameworks/Libraries | Databases | Tools/Others |
-| -------- | -------- | -------- | -------- |
-| JavaScript     | Express.js     | PostgreSQL     | Git, GitHub     |
-| Node.js | jQuery     |       | Heroku     |
-| CSS3, SCSS |      |      |  TDD    |
-| HTML5 |      |           | Handlebars |
+| Languages | Frameworks/Libraries | Testing | Databases | Design | Tools/Others |
+| -------- | -------- | -------- | -------- |-------- |-------- |
+| JavaScript     | Node.js     | TDD with Tape| PostgreSQL     | Invision | Git, GitHub     |
+| HTML5 | Express.js | Travis CI | | Figma | Heroku |
+| CSS3 & SCSS | Handlebars | CodeCov |    |      | User Testing |
 
 ## PROJECTS
 
-Coming soon...
+Coming soon!
 
 ## EXPERIENCE
 
@@ -27,7 +26,7 @@ Coming soon...
 
 #### Full-Stack JavaScript Development Course (June - October 2017)
 
-Founders & Coders is a co-operative that runs a peer-led and project-based coding bootcamp. The course covers test-driven development using a full JavaScript stack (JavaScript and Node.js) with relational databases, plus aspects of design and project management, agile methodologies and pair programming.
+Founders & Coders is a co-operative that runs a peer-led and project-based coding bootcamp. The course covers test-driven development using a full JavaScript stack (JavaScript and Node.js) with relational databases, plus design and project management, agile methodologies and pair programming.
 
 Once the course is over, I will help to mentor the next students at F&C as well as create learning materials to improve the curriculum.
 
@@ -39,7 +38,7 @@ Once the course is over, I will help to mentor the next students at F&C as well 
 
 #### Copyright Manager (February 2015 - June 2017)
 
-Music publishers can be thought of as record labels for songwriters. At Warp Publishing (sister company to Warp Records), I managed the following:
+Music publishers can be thought of as record labels for songwriters. Warp Publishing is the sister company of the groundbreaking electronic music label, Warp Records.
 
 * Looked after the compositional rights of writers' works and ensured that they are registered correctly globally at collection societies and digital platforms such as YouTube.
 * Resolved counter and duplicate claims, tracked and analysed global income and fixed discrepancies at collection societies, digital service providers and sub-publishers to ensure our writers got full royalty payments.

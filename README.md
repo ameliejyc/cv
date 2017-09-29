@@ -1,12 +1,12 @@
 # CV - Amélie Chan
 
-Full-stack JavaScript developer at Founders & Coders, a brilliant peer-led web development bootcamp in East London.
+Full-stack JavaScript developer at Founders & Coders, a brilliant peer-led web development bootcamp in London.
 
 I care about accessible web design, writing clean, robust code, and using tech for good. Happiest in environments which offer plentiful opportunities for learning.
 
 ## TECHNOLOGIES
 
-I have worked on a variety of projects using the following technologies:
+I have worked on a variety of projects using the following technologies. I'm also currently learning React and Elm.
 
 | Languages | Frameworks/Libraries | Testing | Databases | Design | Tools/Others |
 | -------- | -------- | -------- | -------- |-------- |-------- |

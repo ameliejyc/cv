@@ -2,7 +2,7 @@
 
 Full-stack JavaScript developer at Founders & Coders, a brilliant peer-led web development bootcamp in London.
 
-I care about accessible web design, writing clean, robust code, and using tech for good. Happiest in environments which offer plentiful opportunities for learning.
+I care about accessible web design, writing clean, robust code, and using tech for good. Happiest in environments which offer plentiful opportunities for learning and creativity.
 
 ## TECHNOLOGIES
 
@@ -13,10 +13,21 @@ I have worked on a variety of projects using the following technologies. I'm als
 | JavaScript     | Node.js     | TDD with Tape| PostgreSQL     | Invision | Git, GitHub     |
 | HTML5 | Express.js | Travis CI | | Figma | Heroku |
 | CSS3 & SCSS | Handlebars | CodeCov |    |      | User Testing |
+|  | Tachyons |  |    |      |  |
 
 ## PROJECTS
 
-Coming soon!
+**[PREREQ CHECK](https://www.github.com/ameliejyc/prereq-check)**
+
+This app allows Founders & Coders applicants to get visual feedback on their application progress.
+
+Node, Express, Handlebars, SCSS
+
+**[POLICY PICKER](https://www.github.com/astroash/policy-picker)**
+
+An app for young people to engage with proposed policies and give feedback on their preferences.
+
+React, Tachyons, Chart.js, PWA
 
 ## EXPERIENCE
 

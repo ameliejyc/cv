@@ -2,32 +2,33 @@
 
 Full-stack JavaScript developer at Founders & Coders, a brilliant peer-led web development bootcamp in London.
 
-I care about accessible web design, writing clean, robust code, and using tech for good. Happiest in environments which offer plentiful opportunities for learning and creativity.
+I care about accessible web design, writing clean, robust code, and tech for good. Happiest in environments which offer plentiful opportunities for learning and creativity.
 
 ## TECHNOLOGIES
 
-I have worked on a variety of projects using the following technologies. I'm also currently learning React and Elm.
+I have worked on a variety of projects using the following technologies:
 
 | Languages | Frameworks/Libraries | Testing | Databases | Design | Tools/Others |
 | -------- | -------- | -------- | -------- |-------- |-------- |
 | JavaScript     | Node.js     | TDD with Tape| PostgreSQL     | Invision | Git, GitHub     |
 | HTML5 | Express.js | Travis CI | | Figma | Heroku |
 | CSS3 & SCSS | Handlebars | CodeCov |    |      | User Testing |
+| Elm | React |  |    |      |  |
 |  | Tachyons |  |    |      |  |
 
 ## PROJECTS
 
-**[PREREQ CHECK](https://www.github.com/ameliejyc/prereq-check)**
+**[Prereq Check](https://www.github.com/ameliejyc/prereq-check)**
 
-This app allows Founders & Coders applicants to get visual feedback on their application progress.
+An app that allows Founders & Coders applicants to get visual feedback on their application progress.
 
 Node, Express, Handlebars, SCSS
 
-**[POLICY PICKER](https://www.github.com/astroash/policy-picker)**
+**[Policy Picker](https://www.github.com/astroash/policy-picker)**
 
-An app for young people to engage with proposed policies and give feedback on their preferences.
+An app for young people to engage with policies and give feedback on their preferences.
 
-React, Tachyons, Chart.js, PWA
+React, Tachyons, PWA
 
 ## EXPERIENCE
 

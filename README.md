@@ -1,7 +1,9 @@
 # CV - Amélie Chan
 
-Full-stack JavaScript developer. Graduate of Founders & Coders, a brilliant
-peer-led web development bootcamp in London.
+Full-stack JavaScript developer.
+
+Graduate of Founders & Coders, a brilliant peer-led web development bootcamp in
+London.
 
 I value accessible web design, writing clean, robust code, and tech for good.
 Happiest in environments which offer plentiful opportunities for learning and
@@ -29,11 +31,12 @@ used professionally are listed in bold.
 
 #### Front End Engineer Intern (October 2017 - Present)
 
-As part of a team working on the new Ticketmaster site, I aim to create
-effortless user experiences for high-demand events using a core combination of
-React, Redux and Styled Components. With a heavy focus on accessibility, I work
-closely with designers to realise UI designs and document components in
-Storybook to develop a strong style guide.
+* As part of a team working on the new Ticketmaster site, I create effortless
+  user experiences for high-demand events using a core combination of React,
+  Redux and Styled Components.
+* With a heavy focus on accessibility, I work closely with designers to realise
+  UI designs and build an interactive style guide used across the organisation
+  to document and test components.
 
 ---
 

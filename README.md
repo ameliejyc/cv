@@ -28,6 +28,7 @@ Graduate of Founders & Coders, a brilliant peer-led web development bootcamp in 
 F&C is a co-operative that runs an intensive peer-led and project-based bootcamp.
 
 * Learned test-driven development using a full JavaScript stack with relational databases, as well as design and project management, agile methodologies and pair programming.
+* Built two MVPs: one for F&C and one for a prominent politician.
 * After the course ended I spent time mentoring the following cohort and contributing to improvements in the curriculum.
 
 ---
@@ -69,7 +70,7 @@ I co-founded a zero-waste-to-landfill cafe business that operates out of the Shi
 
 ![](/images/oxford-logo.png?raw=true "University of Oxford")
 
-Masters in Chemistry 2:1 - University of Oxford (2008 - 2012)
+### Masters in Chemistry 2:1 - University of Oxford (2008 - 2012)
 
 ## LINKS
 

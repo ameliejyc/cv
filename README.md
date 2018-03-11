@@ -1,6 +1,6 @@
 # Amélie Chan - CV
 
-Full-stack JavaScript developer.
+Full stack JavaScript developer.
 
 I value accessibility, thoughtful design, and writing readable, testable code. Happiest in environments which promote learning and creativity.
 
@@ -8,9 +8,22 @@ Graduate of Founders & Coders, a brilliant peer-led web development bootcamp in 
 
 ## TECH EXPERIENCE
 
-![](/images/tm-logo.png?raw=true "Ticketmaster Logo")
+![](/images/night-zoo-logo.png?raw=true 'Night Zookeeper Logo')
 
-### Ticketmaster - Front End Engineer Intern (October 2017 - Present)
+### [Night Zookeeper](https://www.nightzookeeper.com/) - Full Stack Developer (February 2018 - Present)
+
+#### React, Apollo, GraphQL, Node.js, Styled Components, Storybook
+
+Night Zookeeper is an educational product with a focus on creative writing that inspires children to be creators rather than consumers of digital content.
+
+* I build colourful, engaging pages for children playing in the Night Zoo. I am creating a design system to aid our workflow and scalability, and getting my hands dirty in all manners of interesting challenges that come with working at a burgeoning start up.
+* Future projects in the pipeline include building a React Native app and a writing analysis tool using natural language processing.
+
+---
+
+![](/images/tm-logo.png?raw=true 'Ticketmaster Logo')
+
+### [Ticketmaster](https://www.ticketmaster.co.uk/) - Front End Engineer Intern (October 2017 - February 2018)
 
 #### React, Redux, Node.js, Styled Components, Storybook, Jest, Cypress
 
@@ -19,9 +32,9 @@ Graduate of Founders & Coders, a brilliant peer-led web development bootcamp in 
 
 ---
 
-![](/images/fac-logo.png?raw=true "F&C Logo")
+![](/images/fac-logo.png?raw=true 'F&C Logo')
 
-### Founders & Coders - Full-Stack JavaScript Course (June - October 2017)
+### [Founders & Coders](https://foundersandcoders.com/) - Full-Stack JavaScript Course (June - October 2017)
 
 #### Node.js, Express.js, PostgreSQL, Elm, CSS+SCSS, HTML5, Handlebars, Tachyons, Invision, Figma, User testing
 
@@ -35,9 +48,9 @@ F&C is a co-operative that runs an intensive peer-led and project-based bootcamp
 
 ## OTHER EXPERIENCE
 
-![](/images/warp-logo.png?raw=true "Warp Logo")
+![](/images/warp-logo.png?raw=true 'Warp Logo')
 
-### Warp Music Publishing - Copyright Manager (February 2015 - June 2017)
+### [Warp Music Publishing](http://warppublishing.net/) - Copyright Manager (February 2015 - June 2017)
 
 Music publishers can be thought of as record labels for songwriters. Warp Publishing is the sister company of the groundbreaking music label, Warp Records.
 
@@ -46,9 +59,9 @@ Music publishers can be thought of as record labels for songwriters. Warp Publis
 
 ---
 
-![](/images/ship-logo.png?raw=true "Ship Logo")
+![](/images/ship-logo.png?raw=true 'Ship Logo')
 
-### Compass Coffee - Co-Owner & Manager (January 2014 - March 2017)
+### [Compass Coffee](http://www.hackneypirates.org/cafe/) - Co-Owner & Manager (January 2014 - March 2017)
 
 I co-founded a zero-waste-to-landfill cafe business that operates out of the Ship of Adventures - home of the educational charity, the Hackney Pirates.
 
@@ -57,9 +70,9 @@ I co-founded a zero-waste-to-landfill cafe business that operates out of the Shi
 
 ---
 
-![](/images/universal-logo.png?raw=true "Universal Logo")
+![](/images/universal-logo.png?raw=true 'Universal Logo')
 
-### Universal Music - Finance & Ticketing (August 2014 - February 2015)
+### [Universal Music](https://www.universalmusic.com/) - Finance & Ticketing (August 2014 - February 2015)
 
 * Weekly reports on all U-Live concerts and tours to calculate future sales projections.
 * Liaised with ticketing partners to price and allocate tickets for upcoming concerts.
@@ -68,7 +81,7 @@ I co-founded a zero-waste-to-landfill cafe business that operates out of the Shi
 
 ## EDUCATION
 
-![](/images/oxford-logo.png?raw=true "University of Oxford")
+![](/images/oxford-logo.png?raw=true 'University of Oxford')
 
 ### Masters in Chemistry 2:1 - University of Oxford (2008 - 2012)
 

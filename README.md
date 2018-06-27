@@ -1,8 +1,8 @@
 # Amélie Chan - CV
 
-Full stack JavaScript developer.
+Full stack developer.
 
-I value accessibility, thoughtful design, and writing readable, testable code. Happiest in environments which promote learning and creativity.
+I value accessibility, thoughtful design, and writing readable, testable code.
 
 Graduate of Founders & Coders, a brilliant peer-led web development bootcamp in London.
 
@@ -12,12 +12,13 @@ Graduate of Founders & Coders, a brilliant peer-led web development bootcamp in 
 
 ### [Night Zookeeper](https://www.nightzookeeper.com/) - Full Stack Developer (February 2018 - Present)
 
-#### React, Apollo, GraphQL, Node.js, Styled Components, Storybook
+#### React, React Native, GraphQL, Apollo, MongoDB, Styled Components, Enzyme
 
-Night Zookeeper is an educational product with a focus on creative writing that inspires children to be creators rather than consumers of digital content.
+Night Zookeeper is an educational, creative writing website and app that helps children to be creators rather than consumers of digital content.
 
-* I build colourful, engaging pages for children playing in the Night Zoo. I am creating a design system to aid our workflow and scalability, and getting my hands dirty in all manners of interesting challenges that come with working at a burgeoning start up.
-* Future projects in the pipeline include building a React Native app and a writing analysis tool using natural language processing.
+* I build and ship entire features from start to finish using a full, exciting modern stack. Currently focussed on creating an app in React Native.
+* I work closely with design and product teams to develop concepts and scope projects with complex user requirements.
+* Being part of a burgeoning start-up, I am no stranger to tight deadlines and work particularly hard to meet them whilst maintaining testing and other best practices.
 
 ---
 

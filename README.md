@@ -8,7 +8,7 @@ Graduate of Founders & Coders, a brilliant peer-led web development bootcamp in 
 
 ![](/images/amazon-logo.png?raw=true 'Amazon Logo')
 
-### [Amazon](https://www.amazon.com/) - Web Developer Engineer (November 2018 - present)
+### [Amazon](https://smile.amazon.co.uk/) - Web Developer Engineer (November 2018 - present)
 
 I work within Amazon Giveaway, a self-service marketing tool that gives sellers the ability to easily launch custom competitions and giveaways.
 

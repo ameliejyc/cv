@@ -1,14 +1,12 @@
 # Amélie Chan - CV
 
-Web developer.
-
-Graduate of Founders & Coders, a brilliant peer-led web development bootcamp in London.
-
 ## TECH EXPERIENCE
 
 ![](/images/amazon-logo.png?raw=true 'Amazon Logo')
 
-### [Amazon](https://smile.amazon.co.uk/) - Web Developer Engineer (November 2018 - present)
+### [Amazon](https://smile.amazon.co.uk/) - Front End Engineer (November 2018 - present)
+
+#### TypeScript, React, Redux
 
 I work within Amazon Giveaway, a self-service marketing tool that gives sellers the ability to easily launch custom competitions and giveaways.
 
@@ -42,8 +40,6 @@ Night Zookeeper is an educational, creative writing website and app that helps c
 ![](/images/fac-logo.png?raw=true 'F&C Logo')
 
 ### [Founders & Coders](https://foundersandcoders.com/) - Full-Stack JavaScript Course (June - October 2017)
-
-#### Node.js, Express.js, PostgreSQL, Elm, CSS+SCSS, HTML5, Handlebars, Tachyons, Invision, Figma, User testing
 
 F&C is a co-operative that runs an intensive peer-led and project-based bootcamp.
 
@@ -86,17 +82,3 @@ I co-founded a zero-waste-to-landfill cafe business that operates out of the Shi
 ## LINKS
 
 [LinkedIn](https://www.linkedin.com/in/am%C3%A9lie-chan-413aa77b/)
-
-## INTERESTS
-
-Learning :books:
-
-Music Theory & Production :musical_keyboard:
-
-Tech For Good :+1:
-
-Food & Food Chemistry :ramen:
-
-Contemporary Dance & Choreography :dancer:
-
-Podcasts :thought_balloon:

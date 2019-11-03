@@ -67,6 +67,7 @@ I co-founded a zero-waste-to-landfill cafe business that operates out of the Shi
 ## EDUCATION
 
 ### Masters in Chemistry 2:1 - University of Oxford (2008 - 2012)
+### A Levels - Maths (A), Chemistry (A), Physics (A), Music (A)
 
 ## LINKS
 

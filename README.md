@@ -1,16 +1,16 @@
 # Amélie Chan - CV
 
-I am a JavaScript engineer who cares about accessibility, well-tested code, and good cross-functional communication. I am happiest in environments that foster support and mentorship as well as opportunities to take ownership. 
-
 ## TECH EXPERIENCE
 
 ### [Amazon](https://smile.amazon.co.uk/) - Front End Engineer (November 2018 - present)
 
-#### TypeScript, React, Redux
+#### TypeScript, React, Redux, React Native, Java
 
-- Front end design and implementation of UI for sellers to create and track Giveaways (competitions for customers to win products for free).
-- Worked on migration of core customer Giveaway experience to new stack of TypeScript, React and Redux with Puppeteer end-to-end tests.
-- Peak day preparations and legacy code modernisations for Amazon Deals, the highest traffic part of Amazon's retail business.
+- Worked on the design, implementation and launch of a React Native media creation and upload feature used on product reviews.
+- Made the core product review writing experience accessible and advocated for higher accessibility standards org-wide.
+- Designed and implemented a feature for sellers to create and track Giveaways (competitions for customers to win free products).
+- Worked on migration of core customer Giveaway experience to new stack of TypeScript, React and Redux with Puppeteer e2e tests.
+- Peak day preparations and legacy code modernisations for Amazon Deals, the highest traffic product in Amazon's retail business.
 
 ---
 
@@ -18,10 +18,8 @@ I am a JavaScript engineer who cares about accessibility, well-tested code, and 
 
 #### React, React Native, GraphQL, Apollo, MongoDB
 
-Night Zookeeper is an educational, creative writing website that helps children to be creators rather than consumers of digital content.
-
-- Built and shipped entire features from start to finish using a full, exciting modern stack.
-- Worked closely with design and product teams to develop concepts and scope projects with complex user requirements.
+- Built multiple educational features aimed at schoolchildren, such as word based games and drawing tools.
+- Worked closely with design and product in a small team to develop concepts and scope projects with complex user requirements.
 
 ---
 
@@ -29,8 +27,8 @@ Night Zookeeper is an educational, creative writing website that helps children 
 
 #### React, Redux, Styled Components, Storybook, Cypress
 
-- As part of a team working on the new international Ticketmaster site, I created simple user experiences for high-demand events using a core combination of React, Redux and Styled Components.
-- With a heavy focus on accessibility, I worked closely with designers to realise UI designs and helped build an interactive style guide used across the organisation to document and test components.
+- Created simple user experiences for high-demand events on the new international Ticketmaster website.
+- With a heavy focus on accessibility, I helped build an interactive style guide used across the organisation to document and test components.
 
 ---
 
@@ -48,9 +46,9 @@ F&C is a co-operative that runs an intensive peer-led and project-based bootcamp
 
 ### [Warp Music Publishing](http://warppublishing.net/) - Copyright Manager (February 2015 - June 2017)
 
-Music publishers can be thought of as record labels for songwriters. Warp Publishing is the sister company of the groundbreaking music label, Warp Records.
+Warp Publishing is the sister company of the groundbreaking music label, Warp Records.
 
-- Looked after the composition rights of writers' works and ensured that they are registered correctly globally at collection societies and DSPs such as YouTube.
+- Looked after the composition rights of songwriters' works and ensured they are registered correctly globally at collection societies and DSPs such as YouTube.
 - Resolved counter and duplicate claims, tracked and analysed global income and fixed discrepancies at societies, DSPs and sub-publishers to ensure full royalty payments.
 
 ---
@@ -59,15 +57,16 @@ Music publishers can be thought of as record labels for songwriters. Warp Publis
 
 I co-founded a zero-waste-to-landfill cafe business that operates out of the Ship of Adventures - home of the educational charity, the Hackney Pirates.
 
-- Co-managed all aspects of the business: daily operations, finances, suppliers, menu design, marketing, employee hire and management, data analysis and much more.
+- Managed all aspects of the business: daily operations, finances, suppliers, menu design, marketing, employee hire and management, data analysis and much more.
 - Organised and delivered high profile catering events.
 
 ---
 
 ## EDUCATION
 
-### Masters in Chemistry 2:1 - University of Oxford (2008 - 2012)
-### A Levels - Maths (A), Chemistry (A), Physics (A), Music (A)
+#### Masters in Chemistry 2:1 - University of Oxford (2008 - 2012)
+
+#### A Levels - Maths (A), Chemistry (A), Physics (A), Music (A)
 
 ## LINKS
 
